@@ -41,7 +41,7 @@ export default function App() {
     return <View />;
   }
   if (hasPermission === false) {
-    return <Text>Não temos acesso a camêra</Text>;
+    return <Text>Não temos acesso a câmera</Text>;
   }
 
   return (
