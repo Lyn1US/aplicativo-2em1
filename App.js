@@ -54,7 +54,7 @@ export default function App() {
       <View style={styles.body}>
        
         <View style={styles.instructionsContainer}>
-          <Text style={styles.title}>Lista e Camêra:</Text>
+          <Text style={styles.title}>Lista e Câmera:</Text>
           <Text style={styles.instructions}>→ Conceda as devidas permissões!</Text>
         </View>
 
